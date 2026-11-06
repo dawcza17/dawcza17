@@ -1,2 +1,2 @@
 # Dawid Czaplicki
-Apprentice at NEAS AS
+Apprentice at NEAS
